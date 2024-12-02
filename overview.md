@@ -3,6 +3,7 @@
 Glimmer is a set of libraries to create user interfaces using various UI toolkits. It's meant to use the unique attributes of Ruby to create readable / testable and consice code to produce an user interface. There exist UI toolkit backends for the following toolkits:
 
 | UI Toolkit | Ruby variant | Level of support | Relevant versions |
+|------------|--------------|------------------|-------------------|
 | GTK+       | RMI          | non-binding      |                   |
 | LibUI      | RMI          | 2-way binding    |                   |
 | WxWindows  | RMI          | 2-way binding    |                   |
